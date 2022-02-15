@@ -3,7 +3,7 @@
 This project is building a book review webiste where users will be able to register for the website with their username and password. After users log in, they can search for books, leave reviews for individual books, and see the reviews made by other people. I also use a third-party API by Google Books, another book review website, to pull in ratings from a broader audience. Finally, users will be able to query for book details and book reviews programmatically via my website’s API.
 
 Registration.html – this webpage let user can register for the website.
-Bookdetail.html – this webpage displays details about a book, and user can rate and submit review
+Bookdetail.html – this webpage displays details about a book, and user can rate and submit review.
 Bookserach.html - this webpage let user can search for book by isbn number, publication year, title, or author.
 Booklist.html – this webpage shows the search results of the book that user has searched for.
 Error.html- This webpage shows an error if there is something wrong in book search.  
